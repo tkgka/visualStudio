@@ -1,0 +1,7 @@
+C:\Users\kim\source\repos\의미심장\의미심장\bin\Debug\의미심장.exe.config
+C:\Users\kim\source\repos\의미심장\의미심장\bin\Debug\의미심장.exe
+C:\Users\kim\source\repos\의미심장\의미심장\bin\Debug\의미심장.pdb
+C:\Users\kim\source\repos\의미심장\의미심장\obj\Debug\의미심장.csprojAssemblyReference.cache
+C:\Users\kim\source\repos\의미심장\의미심장\obj\Debug\의미심장.csproj.CoreCompileInputs.cache
+C:\Users\kim\source\repos\의미심장\의미심장\obj\Debug\의미심장.exe
+C:\Users\kim\source\repos\의미심장\의미심장\obj\Debug\의미심장.pdb

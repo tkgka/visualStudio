@@ -1,0 +1,6 @@
+C:\Users\kim\source\repos\의미심장\properties2\bin\Debug\properties2.exe.config
+C:\Users\kim\source\repos\의미심장\properties2\bin\Debug\properties2.exe
+C:\Users\kim\source\repos\의미심장\properties2\bin\Debug\properties2.pdb
+C:\Users\kim\source\repos\의미심장\properties2\obj\Debug\properties2.csproj.CoreCompileInputs.cache
+C:\Users\kim\source\repos\의미심장\properties2\obj\Debug\properties2.exe
+C:\Users\kim\source\repos\의미심장\properties2\obj\Debug\properties2.pdb
