@@ -1,0 +1,16 @@
+C:\Users\kim\source\repos\DB수행\DB수행\bin\Debug\DB수행.exe.config
+C:\Users\kim\source\repos\DB수행\DB수행\bin\Debug\DB수행.exe
+C:\Users\kim\source\repos\DB수행\DB수행\bin\Debug\DB수행.pdb
+C:\Users\kim\source\repos\DB수행\DB수행\obj\Debug\DB수행.csprojAssemblyReference.cache
+C:\Users\kim\source\repos\DB수행\DB수행\obj\Debug\DB수행.Properties.Resources.resources
+C:\Users\kim\source\repos\DB수행\DB수행\obj\Debug\DB수행.csproj.GenerateResource.cache
+C:\Users\kim\source\repos\DB수행\DB수행\obj\Debug\DB수행.csproj.CoreCompileInputs.cache
+C:\Users\kim\source\repos\DB수행\DB수행\obj\Debug\DB수행.exe
+C:\Users\kim\source\repos\DB수행\DB수행\obj\Debug\DB수행.pdb
+C:\Users\kim\source\repos\DB수행\DB수행\bin\Debug\MySql.Data.dll
+C:\Users\kim\source\repos\DB수행\DB수행\bin\Debug\Google.Protobuf.dll
+C:\Users\kim\source\repos\DB수행\DB수행\bin\Debug\Renci.SshNet.dll
+C:\Users\kim\source\repos\DB수행\DB수행\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\kim\source\repos\DB수행\DB수행\bin\Debug\MySql.Data.xml
+C:\Users\kim\source\repos\DB수행\DB수행\obj\Debug\DB수행.csproj.CopyComplete
+C:\Users\kim\source\repos\DB수행\DB수행\obj\Debug\DB수행.Form1.resources
